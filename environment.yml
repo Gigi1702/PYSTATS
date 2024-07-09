@@ -1,0 +1,15 @@
+name: example-environment
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - r= 4.0
+  - numpy
+  - matplotlib
+  - pandas
+  - statsmodels
+  - seaborn
+  - scipy
+  - scikit-learn
+  - plotly
+  
